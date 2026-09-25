@@ -1,0 +1,8 @@
+Package: com.example.dstmodloader
+Name: DSTModLoader
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: DST Mod Loader
+Maintainer: Local build
+Author: Local build
+Section: Tweaks
