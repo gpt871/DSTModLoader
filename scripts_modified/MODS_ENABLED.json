@@ -1,8 +1,0 @@
-{
-  "changes": [
-    "Enable MODS_ENABLED in globalvariableoverrides_monkey.lua",
-    "Add main-menu Mods entry between PlayerSummary and Compendium in redux/multiplayermainscreen.lua",
-    "Add Mods entry to in-world redux pause menu in redux/pausescreen.lua"
-  ],
-  "unchanged": "All other scripts remain from the user's uploaded scripts archive."
-}
