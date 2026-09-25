@@ -1,8 +1,0 @@
-Package: com.example.dstmodloader
-Name: DSTModLoader
-Version: 0.1.0
-Architecture: iphoneos-arm
-Description: Creates the DST local mods directory inside the app Documents container.
-Maintainer: Local build
-Author: Local build
-Section: Tweaks
